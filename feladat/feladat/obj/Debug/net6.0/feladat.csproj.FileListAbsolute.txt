@@ -1,0 +1,16 @@
+D:\Féjja_Marcell_Balázs_11B\feladat\feladat\feladat\bin\Debug\net6.0\feladat.exe
+D:\Féjja_Marcell_Balázs_11B\feladat\feladat\feladat\bin\Debug\net6.0\feladat.deps.json
+D:\Féjja_Marcell_Balázs_11B\feladat\feladat\feladat\bin\Debug\net6.0\feladat.runtimeconfig.json
+D:\Féjja_Marcell_Balázs_11B\feladat\feladat\feladat\bin\Debug\net6.0\feladat.dll
+D:\Féjja_Marcell_Balázs_11B\feladat\feladat\feladat\bin\Debug\net6.0\feladat.pdb
+D:\Féjja_Marcell_Balázs_11B\feladat\feladat\feladat\obj\Debug\net6.0\feladat.csproj.AssemblyReference.cache
+D:\Féjja_Marcell_Balázs_11B\feladat\feladat\feladat\obj\Debug\net6.0\feladat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Féjja_Marcell_Balázs_11B\feladat\feladat\feladat\obj\Debug\net6.0\feladat.AssemblyInfoInputs.cache
+D:\Féjja_Marcell_Balázs_11B\feladat\feladat\feladat\obj\Debug\net6.0\feladat.AssemblyInfo.cs
+D:\Féjja_Marcell_Balázs_11B\feladat\feladat\feladat\obj\Debug\net6.0\feladat.csproj.CoreCompileInputs.cache
+D:\Féjja_Marcell_Balázs_11B\feladat\feladat\feladat\obj\Debug\net6.0\feladat.dll
+D:\Féjja_Marcell_Balázs_11B\feladat\feladat\feladat\obj\Debug\net6.0\refint\feladat.dll
+D:\Féjja_Marcell_Balázs_11B\feladat\feladat\feladat\obj\Debug\net6.0\feladat.pdb
+D:\Féjja_Marcell_Balázs_11B\feladat\feladat\feladat\obj\Debug\net6.0\feladat.genruntimeconfig.cache
+D:\Féjja_Marcell_Balázs_11B\feladat\feladat\feladat\obj\Debug\net6.0\ref\feladat.dll
+D:\Féjja_Marcell_Balázs_11B\feladat\feladat\feladat\bin\Debug\net6.0\zeneszamok.txt
