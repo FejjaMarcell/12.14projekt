@@ -1,0 +1,39 @@
+body{
+    padding: 50px;
+}
+
+h1{
+    color: #001a4d;
+    font-size: 32px;
+}
+
+h2{
+    color: #002266;
+    font-size: 24px;
+}
+
+h3{
+    color: #003399;
+    font-size: 19px;
+    margin-left: 50px;
+}
+
+p{
+    margin-left: 100px;
+}
+
+.tablazat{
+    border-color: gray;
+}
+
+.cim{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+tr,td{
+    width: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
